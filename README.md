@@ -12,8 +12,7 @@ API参考 http://doc.bmob.cn/data/wechat_app_new/index.html#_6
 - 设置/更改/获取/删除 用户数据(User表中)
 - 匹配查找（自己又加了一层封装，通过find方法获得QueryTask，通过装饰者模式增加匹配条件）
 
-/**
+
  * 适用于Bmob-1.5.0
- * https://github.com/bmob/hydrogen-js-sdk/blob/master/dist/Bmob-1.5.0.min.js
+ * Bomb-1.5.0.min.js下载地址 https://github.com/bmob/hydrogen-js-sdk/blob/master/dist/Bmob-1.5.0.min.js
  *
- */
