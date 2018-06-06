@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "outFile": "bin/bmob/Bmob-1.4.4.min.js",
+        "allowJs": true
+    },
+    "files": [
+    	"src/Bmob-1.4.4.min.js"
+    ]
+}
