@@ -15,4 +15,3 @@ API参考 http://doc.bmob.cn/data/wechat_app_new/index.html#_6
 
  * 适用于Bmob-1.5.0
  * Bomb-1.5.0.min.js下载地址 https://github.com/bmob/hydrogen-js-sdk/blob/master/dist/Bmob-1.5.0.min.js
- *
